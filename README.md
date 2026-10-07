@@ -1,5 +1,6 @@
 <div align="center">
-Kinematic-Aware Pose Reconstruction from Sparse Commercial In-Shoe Sensors.<h1>KineSole: Democratizing Motion Capture via Kinematic-Aware Models on Minimalist In-Shoe Sensors</h1>
+Kinematic-Aware Pose Reconstruction from Sparse Commercial In-Shoe Sensors.<h1>Kinematic-Aware Pose Reconstruction from Sparse Commercial In-Shoe Sensors</h1>
+
 
 
 ## Installation
