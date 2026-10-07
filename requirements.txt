@@ -1,0 +1,9 @@
+# PyTorch
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch==2.3.0+cu121
+numpy==1.23.5
+setuptools>=68.0
+scikit-image
+kornia
+smplx
+pandas
